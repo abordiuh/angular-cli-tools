@@ -1,4 +1,4 @@
-# Angular Cli Tools
+# Angular CLI Tools
 Angular extra Command Line tools for simplifying dev routines.
 
 ## Features
@@ -25,8 +25,8 @@ python3 AngularCLITools.py routes --project "path-to-root-folder-of-angular-proj
 ```
 Result:
 ```
-<b>Simple Angular CLI Toolset by Artem Bordiuh</b>
-<b>Looking for routes of the project: /path-to-root-folder-of-angular-project</b>
+Simple Angular CLI Toolset by Artem Bordiuh
+Looking for routes of the project: /path-to-root-folder-of-angular-project
 /path-to-root-folder-of-angular-project/src/app/app-routing.module.ts: 
 const routes: Routes = [
   {
